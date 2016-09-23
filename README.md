@@ -1,2 +1,2 @@
 # Ponto
-# By: Lucas Gennari
+By: Lucas Gennari

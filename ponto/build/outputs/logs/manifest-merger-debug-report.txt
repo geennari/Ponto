@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:design:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:12:9-35
+	tools:ignore
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:14:9-60
+	android:allowBackup
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:10:9-45
+	android:theme
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:13:9-40
+activity#lucasgennari.br.ponto.PontoActivity
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:15:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:19:27-74
+activity#lucasgennari.br.ponto.UserCalendar
+ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:24:13-46
+	android:name
+		ADDED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml:23:13-41
+uses-sdk
+INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] D:\workspace\Android Studio\Ponto\ponto\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\Android Studio\Ponto\ponto\src\main\AndroidManifest.xml

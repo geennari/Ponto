@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ponto</string>
+    <string name="login_app">Ponto TCC</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_login">Logar</string>
+    <string name="remember_me">Lembrar senha</string>
+
+    <string name="welcome">Ola %1$s</string>
+
+    <string name="btn_horas_semana">Semana</string>
+    <string name="btn_horas_mes">Mes</string>
+
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Fechar</string>
+
+    <string name="config">Configurações</string>
+    <string name="extrato">Extrato</string>
+    <string name="backup">Backup</string>
+    <string name="ferramentas">Ferramentas</string>
+    <string name="extras">Extras</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="sobre">Sobre</string>
+</resources>
